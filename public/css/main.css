@@ -1,0 +1,31 @@
+body {
+	overflow: none;
+	margin-top: 5vh;
+}
+
+#message-input {
+	margin: 2%;
+}
+
+#chat-wrapper {
+	height: 50vh;
+	width: 50vw;
+	text-align: center;
+	margin: auto;
+	overflow-y: scroll;
+	border-radius: 5px;
+	border-color: #a0a0a0;
+	border-style: solid;
+	border-width: 2px;
+	padding: 2%;
+}
+
+.message {
+	background-color: #f0f0f0;
+	width: 25vw;
+	border-radius: 5px;
+	border-color: #a0a0a0;
+	border-style: solid;
+	border-width: 2px;
+	margin: auto;
+}
